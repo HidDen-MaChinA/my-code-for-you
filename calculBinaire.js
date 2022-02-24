@@ -22,3 +22,4 @@ function Binaire(b,str){
      }
   return Binaire(Math.floor(b / 2) + (b % 2));
 }
+console.log("yo bro")
